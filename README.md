@@ -9,4 +9,4 @@
 
 ## About Tracer Study Alumni Polibatam
 
-Developed with great ❤️ by [Alex Sirait](https://alexsiraitnotes.vercer.app)
+Developed with great ❤️ by [Alex Sirait](https://alexsiraitnotes.vercel.app)
