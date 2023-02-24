@@ -12,6 +12,6 @@
 [click](https://drive.google.com/file/d/1MLEGEeGMcXACNM1jjZHw2oBFkxMY63C6/view?usp=share_link) to view documentation.
 <br>
 
-## About Tracer Study Alumni Polibatam
+## About
 
 Developed with great ❤️ by [Alex Sirait](https://alexsiraitnotes.vercel.app)
